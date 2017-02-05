@@ -1,2 +1,4 @@
 # hello-world
-first test on Github
+
+This is Liang Hong. My first branch on GitHub.
+Updated now.
